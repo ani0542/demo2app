@@ -1,6 +1,3 @@
 hello world i am animesh awasthi
 
-//Changes for HIS-122
-
-
 //Changes for HIS-132
